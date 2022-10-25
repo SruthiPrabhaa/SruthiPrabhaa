@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SruthiPrabhaa
-- 👀 I’m interested in Macihne Learning, Web Development, UI/UX and Software Development
+- 👀 I’m interested in Macihne Learning, Web Development, and Software Development
 - 🌱 I’m currently learning Machine Learning and Software Development.
 - 💞️ I’m looking to collaborate on Machine Learning and Software Development. 
 - 📫 This is my LinkedIn Profile:

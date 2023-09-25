@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @SruthiPrabhaa
-- 👀 I’m interested in Macihne Learning, Web Development, and Software Development
-- 🌱 I’m currently learning Machine Learning and Software Development.
-- 💞️ I’m looking to collaborate on Machine Learning and Software Development. 
+- 👀 I’m interested in Macihne Learning, Web Development, and Data Analysis.
+- 🌱 I’m currently learning Machine Learning, and Data Analysis.
+- 💞️ I’m looking to collaborate on Machine Learning, and Data Analytics. 
 - 📫 This is my LinkedIn Profile:
 -            https://www.linkedin.com/in/sruthi-prabha-470112210
+-
 -    Feel free to connect :)) 
 
 <!---
